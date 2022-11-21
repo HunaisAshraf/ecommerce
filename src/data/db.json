@@ -74,91 +74,91 @@
         {
             "id": 3,
             "title": "Printed Men Round Neck Green T-Shirt",
-            "price": 26000,
+            "price": 600,
             "img": "images/rn.webp",
             "category":"men"
         },
         {
             "id": 4,
             "title": "Men Slim Fit Solid Spread Collar Casual Shirt",
-            "price": 31999,
+            "price": 999,
             "img": "images/shirt1.webp",
             "category":"men"
         },
         {
             "id": 5,
             "title": "Men Slim Fit Solid Spread Collar Casual Shirt ",
-            "price": 80999,
+            "price": 900,
             "img": "images/shirt2.webp",
             "category":"men"
         },
         {
             "id": 6,
             "title": "Men Slim Fit Solid Spread Collar Casual Shirt",
-            "price": 90999,
+            "price": 999,
             "img": "images/shirt3.webp",
             "category":"men"
         },
         {
             "id": 7,
             "title": "SPrinted Women Round Neck Pink T-Shirt ",
-            "price": 101999,
+            "price": 1799,
             "img": "images/wdr.webp",
             "category":"women"
         },
         {
             "id": 8,
             "title": "Printed Women Round Neck Pink T-Shirt",
-            "price": 61999,
+            "price": 599,
             "img": "images/wdr2.webp",
             "category":"women"
         },
         {
             "id": 9,
             "title": "Printed Women Round Neck Pink T-Shirt",
-            "price": 29990,
+            "price": 990,
             "img": "images/wdr3.webp",
             "category":"women"
         },
         {
             "id": 10,
             "title": "Printed Women Round Neck Pink T-ShirtL",
-            "price": 1999,
+            "price": 699,
             "img": "images/wdr4.webp",
             "category":"women"
         },
         {
             "id": 11,
             "title": "Printed Women Round Neck Pink T-Shirt",
-            "price": 1999,
+            "price": 899,
             "img": "images/kdr.webp",
             "category":"women"
         },
         {
             "id": 12,
             "title": "Printed Women Round Neck Pink T-Shirt ",
-            "price": 1999,
+            "price": 499,
             "img": "images/kdr2.webp",
             "category":"kid"
         },
         {
             "id": 13,
             "title": "Boys Striped Pure Cotton T Shirt",
-            "price": 26000,
+            "price": 700,
             "img": "images/kdr3.webp",
             "category":"kid"
         },
         {
             "id": 14,
             "title": "Boys Striped Pure Cotton T Shirt",
-            "price": 31999,
+            "price": 699,
             "img": "images/kdr5.webp",
             "category":"kid"
         },
         {
             "id": 15,
             "title": "Boys Striped Pure Cotton T Shirt ",
-            "price": 80999,
+            "price": 899,
             "img": "images/kdr6.webp",
             "category":"kid"
         }
@@ -184,28 +184,28 @@
         {
             "id": 3,
             "title": "Printed Men Round Neck Green T-Shirt",
-            "price": 26000,
+            "price": 600,
             "img": "images/rn.webp",
             "category":"men"
         },
         {
             "id": 4,
             "title": "Men Slim Fit Solid Spread Collar Casual Shirt",
-            "price": 31999,
+            "price": 999,
             "img": "images/shirt1.webp",
             "category":"men"
         },
         {
             "id": 5,
             "title": "Men Slim Fit Solid Spread Collar Casual Shirt ",
-            "price": 80999,
+            "price": 999,
             "img": "images/shirt2.webp",
             "category":"men"
         },
         {
             "id": 6,
             "title": "Men Slim Fit Solid Spread Collar Casual Shirt",
-            "price": 90999,
+            "price": 999,
             "img": "images/shirt3.webp",
             "category":"men"
         }
